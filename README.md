@@ -1,2 +1,2 @@
 # simple-heart-drawer
-Use Visual Studio if you want to use this^^
+Install ``turtle`` if it isn't installed by default by going into terminal and pasting this ``pip install PythonTurtle``
