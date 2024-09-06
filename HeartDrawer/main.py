@@ -3,8 +3,8 @@ import time
 
 screen = turtle.Screen()
 screen.setup(width=600, height=600)
-screen.bgcolor("white")
-screen.title("Useless Python Code")
+screen.bgcolor("white") # Change this to any color you like
+screen.title("Useless Python Code") # Change this to any title you like
 
 pen = turtle.Turtle()
 pen.shape("turtle")
@@ -15,7 +15,7 @@ color.shape("turtle")
 color.speed(1)
 
 def draw_heart():
-    pen.color("black") # change this to read if you want to lol
+    pen.color("black") # Change this to any color you like
     pen.begin_fill()
 
     pen.left(50)
@@ -34,7 +34,7 @@ def slow_draw():
         time.sleep(0.05)
 
 pen.hideturtle()
-pen.speed(1)
+pen.speed(1) # Adjust this to make the drawing more faster :)
 
 slow_draw()
 
