@@ -28,7 +28,7 @@
    - Go to `File` > `Open` > `Project/Solution` and select the `simple-heart-drawer` folder.
 
 3. **Set up the Python environment**:
-   - Ensure that you have Python 3.x installed and configured in Visual Studio.
+   - Ensure that you have Python 3.9 installed and configured in Visual Studio.
    - Configure the Python environment by going to `Tools` > `Options` > `Python Environments`.
 
 4. **Run the script**:
