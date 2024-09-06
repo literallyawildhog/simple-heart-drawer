@@ -1,2 +1,2 @@
 # simple-heart-drawer
-Simple Heart Drawer to impress someone using Python :)
+Use Visual Studio if you want to use this^^
